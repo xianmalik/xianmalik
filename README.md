@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Front-End Developer for Reformed Tech & Skipper Hospitality
+### Front-End Developer for Curotec & Pairin
 <!--
 #### Languages and Tools I can work with:
 <img src="https://img.shields.io/badge/-Nodejs-43853?logo=Node.js&logoColor=white">
