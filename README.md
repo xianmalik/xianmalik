@@ -1,33 +1,67 @@
-### Hi there 👋 I'm Malik Zubayer Ul Haider (Xian),
-- Unconditional ♥ for JScript
+# 👋 Hi, I'm Malik Zubayer Ul Haider
 
-<!--
-**malik-xs/malik-xs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Senior Frontend Engineer | React & Next.js Specialist | Turning Ideas Into Fast, Scalable Products**
 
-Here are some ideas to get you started:
+I’m a software engineer focused on building **high-performance, user-centric applications** with React, Next.js, and Node.js. I’ve built products used by **40,000+ active users**, improved performance metrics by 25-30%, and developed scalable CMS and booking platforms for startups and SMEs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Freelance Front-End Developer
-<!--
-#### Languages and Tools I can work with:
-<img src="https://img.shields.io/badge/-Nodejs-43853?logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white">
-<img src="https://img.shields.io/badge/-React-grey?logo=React&logoColor=#61dbfb">
-<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/-Vue-35495e?logo=Vue&logoColor=#42b883">
-<img src="https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white">
-<img src="https://img.shields.io/badge/-Github_Actions-2088FF?logo=github-actions&logoColor=white">
-<img src="https://img.shields.io/badge/-repl.it-56676e?logo=repl.it&logoColor=white">
+I believe in **clean architecture, consistent documentation, and performance-focused engineering**. My goal is to bridge product vision with reliable technical execution, ensuring your ideas are delivered efficiently and scalably.
 
-#### Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=xianmalik&show_icons=true&hide_border=true&theme=algolia&icon_color=0000ff">
- -->
+---
+
+## 🚀 What I Do
+
+- 🌐 **Frontend:** React, Next.js, Svelte, Vue, TailwindCSS
+- 🛠️ **Backend:** Node.js, Express, Django
+- 🔗 **APIs:** GraphQL, REST
+- 🗃️ **Databases:** PostgreSQL, MongoDB, Firebase
+- ⚡ **Performance Optimization & Lighthouse Auditing**
+- 🧩 **Modular, reusable components and scalable architectures**
+
+---
+
+<!-- ## 📈 Recent Projects
+
+- **[Skipper Hospitality](https://platform.skipperhospitality.com/):** CMS & booking engine with React + Django REST, improving client workflows by 40%.
+- **[Plume](https://www.plume.com):** Custom Next.js + NetlifyCMS marketing site, optimized for usability and performance.
+- **[ShopEngine](https://wordpress.org/plugins/shopengine/):** WooCommerce template builder for 40k+ active users.
+
+---
+
+## 🌱 Currently Learning
+- Advanced GraphQL patterns
+- Serverless architectures
+- Automated CI/CD optimization
+
+--- -->
+
+
+<div align="center">
+
+## 📫 Let's Connect
+
+[![Website](https://img.shields.io/badge/Website-xianmalik.com-FFF?labelColor=black&style=for-the-badge&color=10ac84)](https://xianmalik.com)
+[![Discord](https://img.shields.io/discord/1255335635938578462?labelColor=black&logo=discord&logoColor=2e86de&style=for-the-badge&color=2e86de)](https://discord.gg/eZHFRApKGn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-xianmalik-FFF?labelColor=black&style=for-the-badge&color=54a0ff)](https://www.linkedin.com/in/xianmalik)
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&color=c20a72&logoColor=white)](https://www.buymeacoffee.com/xianmalik)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+![Malik's GitHub stats](https://github-readme-stats.vercel.app/api?username=xianmalik&show_icons=true&theme=radical&hide_rank=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xianmalik&layout=compact&theme=radical)
+
+---
+
+### ⚡ Fun Fact:
+I love optimizing React apps to hit **95+ Lighthouse scores** while keeping the codebase clean and maintainable.
+
+---
+
+> *“Let’s build scalable, performant products that users actually love to use.”*
+
+
+
