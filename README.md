@@ -49,12 +49,12 @@ I believe in **clean architecture, consistent documentation, and performance-foc
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 ![Malik's GitHub stats](https://github-readme-stats.vercel.app/api?username=xianmalik&show_icons=true&theme=radical&hide_rank=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xianmalik&layout=compact&theme=radical)
 
----
+--- -->
 
 ### ⚡ Fun Fact:
 I love optimizing React apps to hit **95+ Lighthouse scores** while keeping the codebase clean and maintainable.
