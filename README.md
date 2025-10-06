@@ -40,9 +40,7 @@ I believe in **clean architecture, consistent documentation, and performance-foc
 ## 📫 Let's Connect
 
 [![Website](https://img.shields.io/badge/Website-xianmalik.com-FFF?labelColor=black&style=for-the-badge&color=10ac84)](https://xianmalik.com)
-[![Discord](https://img.shields.io/discord/1255335635938578462?labelColor=black&logo=discord&logoColor=2e86de&style=for-the-badge&color=2e86de)](https://discord.gg/eZHFRApKGn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-xianmalik-FFF?labelColor=black&style=for-the-badge&color=54a0ff)](https://www.linkedin.com/in/xianmalik)
-
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&color=c20a72&logoColor=white)](https://www.buymeacoffee.com/xianmalik)
 
 </div>
